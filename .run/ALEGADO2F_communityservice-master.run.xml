@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ALEGADO2F_communityservice-master" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.scc.Main" />
+    <module name="CommunityService" />
+    <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
