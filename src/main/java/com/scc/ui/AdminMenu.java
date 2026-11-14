@@ -1,9 +1,8 @@
-package com.scc.menu;
+package com.scc.ui;
 
 import com.scc.dao.ActivityLogDao;
 import com.scc.dao.UserDao;
 import com.scc.model.User;
-import com.scc.ui.ActivityLogUI;
 
 import java.util.List;
 import java.util.Scanner;
