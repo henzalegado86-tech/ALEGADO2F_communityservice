@@ -1,4 +1,4 @@
-package com.scc.menu;
+package com.scc.ui;
 
 import com.scc.model.User;
 import com.scc.dao.UserDao;

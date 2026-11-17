@@ -1,7 +1,6 @@
-package com.scc.menu;
+package com.scc.ui;
 
 import com.scc.model.User;
-import com.scc.ui.ActivityLogUI;
 
 public class AdminMenu extends BaseMenu {
 

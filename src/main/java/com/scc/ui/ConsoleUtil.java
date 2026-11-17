@@ -1,4 +1,4 @@
-package com.scc.menu;
+package com.scc.ui;
 
 import java.util.Scanner;
 

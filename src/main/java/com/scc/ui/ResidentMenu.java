@@ -1,8 +1,9 @@
-package com.scc.menu;
+package com.scc.ui;
 
 import com.scc.model.ServiceRequest;
 import com.scc.model.Category;
 import com.scc.model.User;
+
 import java.util.List;
 import java.util.stream.Collectors;
 
